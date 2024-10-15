@@ -1,0 +1,37 @@
+Task 3: Creating Effective Visuals
+  This task, completed as part of the Tata Virtual Internship Program, focused on developing data visualizations using either Tableau or Power BI. The goal was to present meaningful insights based on business requirements gathered from the CEO and CMO of an online retail store. This task involved data cleaning, analysis, and visualization to help executives make effective decisions and strategize for business expansion.
+
+Objectives:
+  - Ensure the data is cleaned and transformed for accurate analysis.
+  - Create visuals that help the senior management understand revenue trends, customer performance, and demand for products.
+  - Utilize either Tableau or Power BI for data visualization, enabling the CEO and CMO to use insights for decision-making.
+
+Steps Taken:
+  1.Data Cleanup:
+    - Applied checks to ensure that no quantity is below 1 unit and no unit price is below $0.
+    - Removed data containing errors to ensure high-quality analysis.
+  2.Visual Creation:
+    - Created separate visuals for each question requested by the CEO and CMO.
+    - Generated interactive charts in Tableau (.twbx) format or Power BI (.pbix) format.
+
+Questions & Visuals:
+  1.Time Series of Revenue for 2011 (CEO):
+    - Visualized monthly revenue trends for the year 2011 to identify seasonality and patterns, helping the CEO forecast for the following year.
+
+  2.Top 10 Countries by Revenue & Quantity Sold (CMO):
+    - Displayed a stacked bar chart excluding the UK, showing both revenue and quantity sold for the top 10 countries.
+
+  3.Top 10 Customers by Revenue (CMO):
+    - Created a descending column chart of the top 10 revenue-generating customers, helping the CMO identify key customers and develop retention strategies.
+
+  4.Regional Demand Analysis (CEO):
+    - Used a map chart (excluding the UK) to show global demand for products, assisting the CEO in identifying regions with high demand for expansion.
+
+Tools Used:
+  - Power BI.
+  - Cleaned and prepared data was saved in .pbix (Power BI) formats.
+
+Learning Outcomes:
+  - Gained proficiency in using Tableau and Power BI for creating effective business visualizations.
+  - Developed strong skills in data cleaning and transformation to ensure accurate representation of business metrics.
+  - Enhanced ability to tailor visualizations to specific business questions, improving executive decision-making.
