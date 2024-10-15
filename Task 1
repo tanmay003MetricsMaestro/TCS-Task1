@@ -1,0 +1,29 @@
+Tata Virtual Internship Program – Data Visualization for Business Insights
+Overview: This repository contains my work from the Tata Virtual Internship Program on Forage, focusing on data visualization to drive informed business decisions for an online retail company. The project involved analyzing key business metrics to provide actionable insights to the CEO and CMO, with a specific focus on revenue growth, customer behavior, and market performance.
+
+Project Tasks:
+
+Framing the Business Scenario: Reviewed operational and marketing data to identify factors contributing to the company’s performance and provide strategic recommendations.
+
+Key Business Questions:
+
+For the CEO:
+What is the total revenue, and how does it compare to financial targets?
+Which countries are our top markets, and what is their revenue contribution?
+How has the customer base grown over the given time period?
+What are the most profitable product categories, and should we consider expanding them?
+For the CMO:
+What are the top-selling products by quantity, and how can they inform marketing strategies?
+Are there seasonal trends that should be leveraged for targeted marketing?
+How does customer behavior (purchase frequency, average order value) vary across countries?
+Which product categories have the highest customer retention rates, and how can we use this to improve loyalty?
+Technologies Used:
+
+Data Visualization: Matplotlib, Seaborn
+Data Analysis: Pandas, NumPy
+Presentation: PowerPoint for business insights and visual summaries
+Key Learnings:
+
+Developed a CEO and CMO-focused perspective to derive data-driven insights.
+Mastered data visualization techniques to present complex data in an easily interpretable format.
+Created a strategic approach to using business data for operational and marketing decisions.
